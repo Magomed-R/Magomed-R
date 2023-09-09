@@ -14,8 +14,8 @@
 ![Static Badge](https://img.shields.io/badge/css-0d00ff.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sass%2Fscss-ff00dd.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-ffee00.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/vue-42b883.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/axios-4400ff.svg?style=for-the-badge&logo=axios&logoColor=white)
+![Static Badge](https://img.shields.io/badge/vue-42f883.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/babel-ffff00.svg?style=for-the-badge&logo=babel&logoColor=black)<br />
 ![Static Badge](https://img.shields.io/badge/git-ff0000.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
