@@ -1,3 +1,7 @@
+<h1 align="center">Hi there, I'm Magomed! 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Fullstack developer from Astrakhan region, Russia 🇷🇺</h3> 
+
 ![Static Badge](https://img.shields.io/badge/javascript-ffee00.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/node-06ad00.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/mongodb-069401.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -14,5 +18,5 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magomed-R&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<span align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magomed-R&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</span>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magomed-r&show_icons=true&theme=dark&layout=pie)
