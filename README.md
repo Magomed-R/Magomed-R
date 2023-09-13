@@ -9,7 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/express-ffee00.svg?style=for-the-badge&logo=express&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/mongo-069401.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/mysql-0040ff.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/puppeteer-00bb88.svg?style=for-the-badge&logo=puppeteer&logoColor=black)
+![Static Badge](https://img.shields.io/badge/puppeteer-01d9a3.svg?style=for-the-badge&logo=puppeteer&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/node--telegram--bot--api-00ffff.svg?style=for-the-badge&logo=telegram&logoColor=black)<br />
 ![Static Badge](https://img.shields.io/badge/html-ff4000.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css-0d00ff.svg?style=for-the-badge&logo=css3&logoColor=white)
