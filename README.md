@@ -26,4 +26,4 @@
 
 <span align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magomed-R&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magomed-r&show_icons=true&theme=dark&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magomed-r&layout=pie&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
