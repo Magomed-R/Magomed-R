@@ -17,7 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/javascript-ffee00.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/axios-4400ff.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/vue-00f800.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/babel-ffff00.svg?style=for-the-badge&logo=babel&logoColor=black)<br />
+https://img.shields.io/badge/vite-BD34FE.svg?style=for-the-badge&logo=vite&logoColor=%23fff<br />
 ![Static Badge](https://img.shields.io/badge/git-ff0000.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/nginx-00bb00.svg?style=for-the-badge&logo=nginx&logoColor=white)
