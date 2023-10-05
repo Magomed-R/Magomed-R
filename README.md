@@ -15,6 +15,7 @@
 ![Static Badge](https://img.shields.io/badge/css-0d00ff.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sass%2Fscss-ff00dd.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-ffee00.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/axios-4400ff.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/vue-00f800.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/vite-BD34FE.svg?style=for-the-badge&logo=vite&logoColor=%23fff)<br />
