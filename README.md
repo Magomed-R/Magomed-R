@@ -27,7 +27,7 @@ Other:<br />
 ![Static Badge](https://img.shields.io/badge/docker-1D63ED.svg?style=for-the-badge&logo=docker&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/f%23-0097d0.svg?style=for-the-badge&logo=fsharp&logoColor=%23ffffff)
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px;">
 <div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magomed-r&layout=pie&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
