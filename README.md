@@ -13,7 +13,6 @@ Backend:
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="60" height="60" />
 <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg" title="Puppeteer" width="60" height="60" />
 <img src="https://github.com/telegraf/telegraf/blob/v4/docs/assets/logo.svg" title="Telegraf" width="60" height="60" />
-<br />
 
 Frontend:
 
@@ -23,7 +22,6 @@ Frontend:
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/draft_release/icons/axios/axios-plain.svg" title="axios" width="60" height="60" />
-<br />
 
 Other:
 
