@@ -4,8 +4,7 @@
 
 ### My stack:
 
-Backend:
-
+Backend:<br />
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressjs" width="60" height="60" />
@@ -14,8 +13,7 @@ Backend:
 <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg" title="Puppeteer" width="60" height="60" />
 <img src="https://github.com/telegraf/telegraf/blob/v4/docs/assets/logo.svg" title="Telegraf" width="60" height="60" />
 
-Frontend:
-
+Frontend:<br />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/draft_release/icons/vitejs/vitejs-original.svg" title="vite" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" width="60" height="60" />
@@ -23,8 +21,7 @@ Frontend:
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/draft_release/icons/axios/axios-plain.svg" title="axios" width="60" height="60" />
 
-Other:
-
+Other:<br />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" width="60" height="60" />
