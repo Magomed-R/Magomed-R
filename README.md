@@ -30,16 +30,8 @@ Other:<br />
 
 ## My stats
 <div style="display: flex; align-items: start; justify-content: center; gap: 20px; flex-wrap: nowrap; ">
-<div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magomed-r&layout=pie&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-<div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magomed-R&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=magomed-r&layout=pie&theme=vision-friendly-dark" />
+<img align=top src="https://github-readme-stats.vercel.app/api?username=Magomed-R&show_icons=true&theme=vision-friendly-dark" />
 </div>
 
 ## About me
