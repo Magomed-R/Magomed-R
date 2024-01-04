@@ -6,7 +6,7 @@
 
 Backend:<br />
 <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" title="npm" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressjs" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" width="40" height="40" />
