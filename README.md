@@ -21,14 +21,13 @@ Frontend:<br />
 ![Static Badge](https://img.shields.io/badge/axios-4400ff.svg?style=for-the-badge&logo=axios&logoColor=white)
 <br />
 Other:<br />
-![Static Badge](https://img.shields.io/badge/git-ff0000.svg?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Static Badge](https://img.shields.io/badge/nginx-00bb00.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Static Badge](https://img.shields.io/badge/docker-1D63ED.svg?style=for-the-badge&logo=docker&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/f%23-0097d0.svg?style=for-the-badge&logo=fsharp&logoColor=%23ffffff)
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg" title="fsharp" width="40" height="40" />
 
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40" />
 </div>
 
 <div align='center'>
