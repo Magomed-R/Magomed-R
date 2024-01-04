@@ -27,9 +27,16 @@ Other:<br />
 ![Static Badge](https://img.shields.io/badge/docker-1D63ED.svg?style=for-the-badge&logo=docker&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/f%23-0097d0.svg?style=for-the-badge&logo=fsharp&logoColor=%23ffffff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magomed-r&layout=pie&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40" />
+</div>
+
+<div align='center'>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magomed-R&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magomed-r&layout=pie&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 ## About me
 * 🔭 Besides typescript, I'm also interested in learning other languages like F# and Python
