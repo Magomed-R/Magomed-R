@@ -17,7 +17,7 @@ Backend:<br />
 Frontend:<br />
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="vite" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/draft_release/icons/vitejs/vitejs-original.svg" title="vite" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40" />
