@@ -6,32 +6,33 @@
 
 Backend:<br />
 <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressjs" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg" title="Puppeteer" width="40" height="40" />
-    <img src="https://github.com/telegraf/telegraf/blob/v4/docs/assets/logo.svg" title="Telegraf" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressjs" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="60" height="60" />
+    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg" title="Puppeteer" width="60" height="60" />
+    <img src="https://github.com/telegraf/telegraf/blob/v4/docs/assets/logo.svg" title="Telegraf" width="60" height="60" />
 </div>
 Frontend:<br />
 <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/draft_release/icons/vitejs/vitejs-original.svg" title="vite" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/draft_release/icons/axios/axios-plain.svg" title="axios" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/draft_release/icons/vitejs/vitejs-original.svg" title="vite" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/draft_release/icons/axios/axios-plain.svg" title="axios" width="60" height="60" />
 </div>
 <br />
 Other:<br />
 <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg" title="fsharp" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" width="60" height="60" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg" title="fsharp" width="60" height="60" />
 </div>
+
 
 <div align='center'>
 
