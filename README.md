@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Fullstack developer from Astrakhan region, Russia 🇷🇺</h3>
 
-## My stack:
+### My stack:
 
 Backend:<br />
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" width="60" height="60" />
@@ -29,7 +29,7 @@ Other:<br />
 <img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg" title="fsharp" width="60" height="60" />
 
 ## My stats
-<div style="display: flex; align-items: start; justify-content: center; gap: 20px;">
+<div style="display: flex; align-items: start; justify-content: center; gap: 20px; flex-wrap: nowrap; ">
 <div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magomed-r&layout=pie&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
