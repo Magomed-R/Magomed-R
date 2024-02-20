@@ -36,6 +36,8 @@ Databases:<br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="60" height="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="Redis" width="60" height="60" />
+          
 
 Other:<br />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="60" height="60" />
