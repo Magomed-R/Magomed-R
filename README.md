@@ -3,7 +3,7 @@
 <h3 align="center">Fullstack developer from Astrakhan region, Russia 🇷🇺</h3>
 
 ## About me
-Hi! My name is Magomed and I am a backend developer. I am engaged in the development of websites, telegram bots, parsers, scripts and server administration. I have been developing for over 2 years and creating interesting projects in NodeJS, TypeScript and Python. I work with each client individually to ensure that the product I develop meets their needs and expectations. Write to me for professional work!
+Hi! My name is Magomed and I am a fullstack developer. I am engaged in the development of websites, telegram bots, parsers, scripts and server administration. I have been developing for over 2 years and creating interesting projects in NodeJS, TypeScript and Python. I work with each client individually to ensure that the product I develop meets their needs and expectations. Write to me for professional work!
 -   🔭 Besides typescript, I'm also interested in learning other languages like Python, C# and F#
 -   👨‍💻 Now I'm working on freelance exchange [Kwork](https://kwork.ru/user/magomed-r)
 -   ⚡ Subscribe to my github and stay tuned for new projects!
