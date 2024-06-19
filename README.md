@@ -61,4 +61,4 @@ Other:<br />
 
 ### Leetcode stats
 
-<img src="https://leetcode-stats-six.vercel.app/?username=Magomed-R&theme=dark" />
+<img src="https://leetcard.jacoblin.cool/magomed-r?theme=dark&font=patrick_hand" />
