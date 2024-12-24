@@ -1,16 +1,14 @@
 <h1 align="center">Добро пожаловать!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-## Обо мне
-
-Приветствую. Меня зовут Магомед и я 18-летний разработчик ПО. В основном пишу на JS/TS, Python, Kotlin/Java, немного F#, немного GO, немного Bash. Увлекаюсь разработкой сайтов, игр, мобильных и десктопных приложений, микроконтроллеров, изучением серверов, computer science, linux, немного играю в игры (не только свои :))
+Приветствую. Меня зовут Магомед и я 18-летний разработчик ПО. В основном пишу на JS/TS, Python, Kotlin/Java, немного F#, немного GO, немного Bash<br />
+Увлекаюсь решением алгоритмов, разработкой сайтов, игр, мобильных и десктопных приложений, микроконтроллеров, изучением серверов, computer science, linux, немного играю в игры (не только в свои :D)
 
 Работаю в IT-сфере более 2,5 лет и в данный момент занимаю позицию NodeJS-бекенд разработчика в компании [BotHub](https://bothub.chat)
 
-Увлекаюсь решением алгоритмов. Решил более 100 алгосов на [leetcode](https://leetcode.com/magomed-r) 
+Решил более 100 алгосов на [leetcode](https://leetcode.com/magomed-r) <br />
+Занимаюсь инвестированием и стейкингом криптовалюты
 
 ## Мой стек:
-
 Бек:<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="NodeJS" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="60" height="60" />
@@ -56,15 +54,18 @@ DevOps:<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="60" height="60" />
 <img src="https://grammy.dev/images/Y.svg" title="Grammy" width="60" height="60" />
 <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg" title="Puppeteer" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" title="RenPY" width="60" height="60" />
 
 Другие языки:<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Python" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="GO" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fsharp/fsharp-original.svg" title="F#" width="60" height="60" />
 
 ## Статистика
 
-### Github stats
+### Github
 
 <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=magomed-r&layout=pie&theme=vision-friendly-dark" />
 <img align=top src="https://github-readme-stats.vercel.app/api?username=Magomed-R&show_icons=true&theme=vision-friendly-dark" />
