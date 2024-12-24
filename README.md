@@ -1,12 +1,14 @@
 <h1 align="center">Добро пожаловать!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-Приветствую. Меня зовут Магомед и я 18-летний разработчик ПО. В основном пишу на JS/TS, Python, Kotlin/Java, немного F#, немного GO, немного Bash<br />
-Увлекаюсь решением алгоритмов, разработкой сайтов, игр, мобильных и десктопных приложений, микроконтроллеров, изучением серверов, computer science, linux, немного играю в игры (не только в свои :D)
 
-Работаю в IT-сфере более 2,5 лет и в данный момент занимаю позицию NodeJS-бекенд разработчика в компании [BotHub](https://bothub.chat)
+Приветствую. Меня зовут Магомед и я 18-летний разработчик ПО. В основном пишу на JS/TS, Python, Kotlin/Java, немного F#, немного GO, немного Bash<br />
+Увлекаюсь решением алгоритмов, разработкой сайтов, игр, мобильных и десктопных приложений, микроконтроллеров, изучением серверов, computer science, linux, немного играю в игры (не только в свои :D)<br />
+Помимо программирования занимаюсь инвестированием, стейкингом и трейдингом криптовалюты
+
+Работаю в IT-сфере более >2,5 лет и в данный момент занимаю позицию NodeJS-бекенд разработчика в компании [BotHub](https://bothub.chat)
 
 Решил более 100 алгосов на [leetcode](https://leetcode.com/magomed-r) <br />
-Занимаюсь инвестированием и стейкингом криптовалюты
+[Мой HH](https://hh.ru/resume/45acec3bff0d4237350039ed1f57703449325a)
 
 ## Мой стек:
 Бек:<br />
@@ -49,6 +51,7 @@ DevOps:<br/>
 Тестирование:<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" title="Jest" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" title="SwaggerUI" width="60" height="60" />
 
 Другие технологии:<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="60" height="60" />
