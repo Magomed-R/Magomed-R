@@ -5,7 +5,7 @@
 Увлекаюсь решением алгоритмов, разработкой сайтов, игр, мобильных и десктопных приложений, микроконтроллеров, изучением серверов, computer science, linux, немного играю в игры (не только в свои :D)<br />
 Помимо программирования занимаюсь инвестированием, стейкингом и трейдингом криптовалюты
 
-Работаю в IT-сфере более >2,5 лет и в данный момент занимаю позицию NodeJS-бекенд разработчика в компании [BotHub](https://bothub.chat)
+Работаю в IT-сфере более >3 лет и в данный момент занимаю позицию NodeJS-бекенд разработчика в компании [BotHub](https://bothub.chat/about-us)
 
 Решил более 100 алгосов на [leetcode](https://leetcode.com/magomed-r) <br />
 [Мой HH](https://hh.ru/resume/45acec3bff0d4237350039ed1f57703449325a)
@@ -71,7 +71,6 @@ DevOps:<br/>
 ### Github
 
 <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=magomed-r&layout=pie&theme=vision-friendly-dark" />
-<img align=top src="https://github-readme-stats.vercel.app/api?username=Magomed-R&show_icons=true&theme=vision-friendly-dark" />
 
 ### Leetcode
 
