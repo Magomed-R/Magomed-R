@@ -6,8 +6,6 @@
 
 Решил более 100 алгосов на [leetcode](https://leetcode.com/magomed-r) <br />
 
-Deno one love❤️
-
 ## Мой стек:
 Бек:<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" title="Deno" width="60" height="60" />
